@@ -1,2 +1,2 @@
 # Carlos-Granillo-AI-in-HC
-GITHUB repository for AI in Healthcare ITAI 4375
+GITHUB repository for all previous assignments and Labs completed in AI-Healthcare ITAI 4375
